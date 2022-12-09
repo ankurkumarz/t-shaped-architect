@@ -12,7 +12,7 @@ A repository to enlist broader technology knowledge a T-shaped software architec
 
 ## Visual Representation
 
-![Architect-Skillset](images/architect-skills.png.png)
+![Architect-Skillset](images/architect-skills.png)
 
 # Specialization Areas (The T-knowledge Vertical Bar)
 - Specialization in Java/Python/Golang/JavaScript or any other programming language
