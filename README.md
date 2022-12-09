@@ -276,6 +276,7 @@ You can broadly classify your knowledge level into 4 different buckets:
 
 ### Security Tactics
 ![SEI Performance Tactics](images/security-tactics.png)
+
 *Reference: [Software Architecture in Practice Book](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)*
 
 ### SAST (Static application security testing)
