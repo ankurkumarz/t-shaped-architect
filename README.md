@@ -28,6 +28,8 @@ You can broadly classify your knowledge level into 4 different buckets:
 
 ![Knowledge Level](knowledge-level.png)
 # Broader Knowledge Areas (The T-knowledge Horizontal Bar)
+- The intention is not to enlist every technology and keeping it to 5-7 (currently pupular) in each area.
+- Note that this is a community-driven decision and based on observations from the group of people. There is no statistical data available to support this.
 
 ## User Experience
 
