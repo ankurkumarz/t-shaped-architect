@@ -1,4 +1,4 @@
-# T-shaped-architect
+# T-shaped Software Architect
 A repository to enlist broader technology knowledge a T-shaped software architect is recommended to aspire for.
 
 <p align="center">
@@ -14,11 +14,20 @@ A repository to enlist broader technology knowledge a T-shaped software architec
 
 ![Architect-Skillset](Architect-Skills.png)
 
-# Specialization (The T-knowledge Vertical Bar)
+# Specialization Areas (The T-knowledge Vertical Bar)
 - Specialization in Java/Python/Golang/JavaScript or any other programming language
 - Specialization in web programming, data engineering, machine learning, or other subject areas
+- You can choose from the below broader knowledge areas and make one or more as your specialization.
 
-# Broader Technical Knowledge (The T-knowledge Horizontal Bar)
+## Knowledge Level
+You can broadly classify your knowledge level into 4 different buckets:
+- Expert Knowledge: Classify a technology in this area when you are hands-on for more than 3+ years and have in-depth knowledge.
+- Experimental Knowledge: Classify a technology in this area when you are hands-on for more than 1+ years and have basic knowledge.
+- Know-how: Classify a technology in this area when you are understand the technology and used it on need basis.
+- Want-to Experiment: Classify a technology in this area when you want to aspire to learn it in near future.
+
+![Knowledge Level](knowledge-level.png)
+# Broader Knowledge Areas (The T-knowledge Horizontal Bar)
 
 ## User Experience
 
