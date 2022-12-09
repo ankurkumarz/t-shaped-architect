@@ -138,6 +138,11 @@ You can broadly classify your knowledge level into 4 different buckets:
 - NATS
 - Solace
 ## Public Cloud
+
+## Cloud Assessment Migration Frameworks
+- [AWS Well-architected Framework](https://aws.amazon.com/architecture/well-architected)
+- [Azure Well-architectured Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/)
+- [Google Cloud Architecture Framework](https://cloud.google.com/architecture/framework)
 ### AWS
 - EC2
 - S3
@@ -307,6 +312,33 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Veracode
 - WhiteHat Security
 
+## Software Architecture and Design
+
+### Architectural Styles
+- Layered Architecture
+- Microservices Architecture
+- Pipeline Architecture
+- Microkernel Architecture
+- Service-based Architecture
+- Event-driven Architecture
+- Space-based Architecture
+- Service-oriented Architecture
+
+### Design Patterns
+- GoF Patterns
+- Domain-driven Design
+- Integration (EAI) Patterns
+- [Cloud-design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+- Cloud-native
+- 12-factor apps
+- Cloud-native foundation (CNCF)
+
+### Viewpoints & Perspectives
+- [Complete List of Viewpoints & Perspectives](https://www.viewpoints-and-perspectives.info/)
+
+### Enterprise Architecture
+- TOGAF
+- Zachman
 ## Program Management
 - Scaled Agile
 - PMP
