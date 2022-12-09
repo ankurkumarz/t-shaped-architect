@@ -3,4 +3,4 @@ For capturing essential skillset required for a T-shaped technologist
 
 # Visual Representation
 
-![Architect-Skillset](Architect-Skillset.png)
+![Architect-Skillset](Architect-Skills.png)
