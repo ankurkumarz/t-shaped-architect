@@ -1,2 +1,6 @@
-# t-shaped-architect
+# T-shaped-architect
 For capturing essential skillset required for a T-shaped technologist
+
+# Visual Representation
+
+![Architect-Skillset](./Architect-Skillset.png)  )
