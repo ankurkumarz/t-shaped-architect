@@ -12,7 +12,7 @@ A repository to enlist broader technology knowledge a T-shaped software architec
 
 ## Visual Representation
 
-![Architect-Skillset](Architect-Skills.png)
+![Architect-Skillset](images/architect-skills.png.png)
 
 # Specialization Areas (The T-knowledge Vertical Bar)
 - Specialization in Java/Python/Golang/JavaScript or any other programming language
@@ -26,9 +26,9 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Know-how: Classify a technology in this area when you are understand the technology and used it on need basis.
 - Want-to Experiment: Classify a technology in this area when you want to aspire to learn it in near future.
 
-![Knowledge Level](knowledge-level.png)
+![Knowledge Level](images/knowledge-level.png)
 # Broader Knowledge Areas (The T-knowledge Horizontal Bar)
-- The intention is not to enlist every technology and keeping it to 5-7 (currently pupular) in each area.
+- The intention is not to enlist every technology and keeping it to 3-7 (currently pupular) in each area.
 - Note that this is a community-driven decision and based on observations from the group of people. There is no statistical data available to support this.
 
 ## User Experience
@@ -131,6 +131,12 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Apache Spark
 - Apache Airflow
 
+## Messaging/Event-broker
+- Kafka
+- Pulsar
+- RabbitMQ
+- NATS
+- Solace
 ## Public Cloud
 ### AWS
 - EC2
@@ -186,3 +192,127 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Jaeger
 - Zipkin
 - Grafana Tempo
+
+## DevOps
+
+### Kubernetes
+- GKE
+- EKS
+- AKS
+- Red Hat OpenShift
+### IaaC
+- Terraform
+- Pulumi
+- Cloudformation
+
+### Configuration Management
+- Ansible
+- Puppet
+- Chef
+
+### Continuous Integration/Continuous Deployment
+- Atlassian Bamboo
+- CircleCI
+- CloudBees CI
+- Codefresh
+- GitHub Actions
+- GitLab
+- GoCD
+- Jenkins
+- Jetbrains
+- TeamCity
+- Tekton
+- Travis CI
+
+### GitOps
+- ArgoCD
+- Flux CD
+
+### SRE
+- Google SRE Practices
+
+## Workflow
+- Camunda
+- AWS Step Functions
+- Apache Airflow
+
+## Low-code Platform
+- Outsystems
+- Mendix
+- ServiceNow
+- Microsoft
+- Pegasystems
+- Appian
+- Salesforce
+- GeneXus
+- WaveMaker
+- Quickbase
+
+## Performance Engineering
+
+## Performance Tactics
+![SEI Performance Tactics](images/performance-tactics.png)
+*Reference: [Software Architecture in Practice Book](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)*
+## Load Testing
+- Apache Jmeter
+- Load Runner
+- Blazemeter
+
+## Analytics
+
+### Web Analytics
+- Google Analytics
+- Google Tag Manager
+
+### Marketing Analytics
+
+## Security
+
+### Security Tactics
+![SEI Performance Tactics](images/security-tactics.png)
+*Reference: [Software Architecture in Practice Book](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)*
+
+### SAST (Static application security testing)
+- GitLab
+- Whitehat Security
+- Checkmarx
+- HCL AppScan
+- Micro Focus Fortify
+- Veracode
+- Synopsys
+- GitHub
+- Data Theorem
+- Synk
+### DAST (Dynamic application security testing)
+- Checkmarx
+- Data Theorem
+- GitLab
+- HCL AppScan
+- Invicti
+- Micro Focus Fortify
+- Rapid7
+- Synopsys
+- Veracode
+- Whitehat Security
+### SCA (Software Composition Analysis)
+- Checkmarx
+- Contrast Security
+- GitHub
+- GitLab
+- HCL AppScan
+- Micro Focus Fortify
+- Rapid7
+- Synk
+- Synopsys
+- Veracode
+- WhiteHat Security
+
+## Program Management
+- Scaled Agile
+- PMP
+- Agile Manifesto
+
+
+
+
+
