@@ -257,6 +257,7 @@ You can broadly classify your knowledge level into 4 different buckets:
 
 ## Performance Tactics
 ![SEI Performance Tactics](images/performance-tactics.png)
+
 *Reference: [Software Architecture in Practice Book](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)*
 ## Load Testing
 - Apache Jmeter
