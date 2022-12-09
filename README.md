@@ -274,8 +274,11 @@ You can broadly classify your knowledge level into 4 different buckets:
 
 ## Security
 
-### Security Tactics
+### Security Tactics/Practices
 ![SEI Performance Tactics](images/security-tactics.png)
+
+- [The Open Web Application Security Project(OWASP) Top 10](https://owasp.org/www-project-top-ten/)
+- [The Open Source Software Security Foundation](https://openssf.org/)
 
 *Reference: [Software Architecture in Practice Book](https://resources.sei.cmu.edu/library/asset-view.cfm?assetid=30264)*
 
@@ -331,9 +334,8 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Domain-driven Design
 - Integration (EAI) Patterns
 - [Cloud-design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
-- Cloud-native
-- 12-factor apps
-- Cloud-native foundation (CNCF)
+- Cloud-native Patterns
+- [The Twelve-factor App](https://12factor.net/)
 
 ### Viewpoints & Perspectives
 - [Complete List of Viewpoints & Perspectives](https://www.viewpoints-and-perspectives.info/)
@@ -342,11 +344,7 @@ You can broadly classify your knowledge level into 4 different buckets:
 - TOGAF
 - Zachman
 ## Program Management
-- Scaled Agile
-- PMP
-- Agile Manifesto
-
-
-
-
-
+- [Scaled Agile Framework](https://www.scaledagileframework.com/)
+- [PMP PMBOK](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok)
+- [Agile Manifesto](https://agilemanifesto.org/)
+- [Reactive Manifesto](https://www.reactivemanifesto.org/)
