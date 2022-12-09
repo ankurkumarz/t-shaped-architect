@@ -53,5 +53,134 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Tachyons
 - Primer
 
-## Backend / Microservices / APIs
-### Java Frameworks
+## Microservices/APIs
+### Frameworks
+- Spring Boot
+- Helidon
+- Micronaut
+- Play f/w
+- ASP.NET
+- .NET Core
+- Flask
+- Falcon
+- Vert.x
+- ExpressJS
+- Gokit
+
+## API Management
+- Apigee
+- MuleSoft
+- Kong
+- NGINX
+- AWS API Gateway
+- Azure Gateway
+- WSO2
+
+## GraphQL
+- Express
+- Apollo
+- Hasura
+## Service Mesh
+- Istio
+- Linkerd
+- Kong Mesh
+
+## Database
+
+### RDBMS
+- PostgreSQL
+- Oracle
+- MS SQL
+- Microsoft SQL Server
+- Neon
+- Google Cloud Spanner
+### NOSQL
+- MongoDB
+- Cassandra
+- Elastic
+- Neo4J
+- CouchDB
+- DynamoDB
+- CosmosDB
+## Graph
+- Neo4J
+- ArrangoDB
+- Amazon Neptune
+
+## Caching
+- Redis
+- Hazelcast
+- Oracle Coherence
+- Apache Ignite
+- Gigaspaces
+- AWS ElasticCache
+- Azure Cache
+- Google Cloud Memorystore
+
+## Data Warehouse & Datalake
+
+## DWH/Datalake
+- Snowflake
+- Databricks
+- Informatica
+
+## Data Processing & Workflow
+- Apache Beam
+- Apache Spark
+- Apache Airflow
+
+## Public Cloud
+### AWS
+- EC2
+- S3
+- Lambda
+- EKS
+- RDS
+- CloudFront
+- IAM
+### Azure
+- Logic Apps
+- Azure Function
+- DevOps
+- VM
+### Google Cloud
+- BiqQuery
+- Anthos
+- GKE
+- Vertex AI
+- App Engine
+- Spanner
+
+## Observability
+
+### Monitoring
+- New Relic
+- Dynatrace
+- Elastic APM
+- Datadog
+- AppDynamics
+- Splunk
+- Grafana
+### Logging
+- AWS CloudWatch
+- Azure Logs
+- Datadog Log Management
+- Dynatrace
+- ElasticSearch (ELK)
+- Google Cloud Logging
+- Grafana Loki
+- New Relic Logs
+### Metrics
+- Prometheus
+- New Relic
+- Dynatrace
+- Datadog
+- AppDynamics
+- Splunk
+### Tracing
+- Splunk
+- SumoLogic
+- Opentelemetry
+- Jaeger
+- Zipkin
+- Grafana Tempo
