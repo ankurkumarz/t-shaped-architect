@@ -292,7 +292,7 @@ You can broadly classify your knowledge level into 4 different buckets:
 - Synopsys
 - GitHub
 - Data Theorem
-- Synk
+- Snyk
 ### DAST (Dynamic application security testing)
 - Checkmarx
 - Data Theorem
@@ -312,7 +312,7 @@ You can broadly classify your knowledge level into 4 different buckets:
 - HCL AppScan
 - Micro Focus Fortify
 - Rapid7
-- Synk
+- Snyk
 - Synopsys
 - Veracode
 - WhiteHat Security
